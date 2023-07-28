@@ -1,0 +1,223 @@
+/* h1, h2, h3, h4, h5, h6 {
+    
+    font-weight: 200;
+} */
+
+
+/* p, blockquote {
+    color: #616161; 
+} */
+
+
+.dropbox-icon {
+    padding: 0px 30px 20px;
+}
+
+.section-main {
+    background: #1e1919;
+}
+
+
+.section-products {
+    background: #f7f5f2;
+    color: #1e1919;
+}
+
+
+.product-text {
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.icon-name {
+    font-weight: 500;
+}
+
+.learn-more-link {
+    color: #1e1919;
+    font-weight: 500;
+    font-size: medium;
+}
+
+.learn-more-link:hover {
+    text-decoration: underline;
+    font-weight: 600;
+    font-size: large;
+}
+
+.learn-more-icon {
+    padding:  10px;
+}
+
+
+.section-cloud-storage {
+    background:  #1e1919;
+    color:  #f7f5f2;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.card-text {
+    color:  #f7f5f2;
+}
+
+.dropbox-btn {
+    color:  #1e1919 !important;
+}
+
+.dropbox-btn:hover {
+    background: yellow !important;
+}
+
+
+.cloud-heading {
+    font-size: x-large !important;
+    font-weight: bolder !important;
+}
+
+
+.section-help {
+    background: #f7f5f2;
+    color: #1e1919;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+
+.section-connecting {
+    background: #f7f5f2;
+    color: #1e1919;
+}
+
+.connecting-link {
+    color: #1e1919;
+    text-decoration: underline;
+    font-size: 17px;
+
+}
+
+
+.section-trusted {
+    background:  #1e1919;
+    color:  #f7f5f2;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.stories-link {
+    color:  #f7f5f2;
+    text-decoration: underline;
+    font-size: 17px;
+}
+
+.slider-trusted {
+    background:  #1e1919;
+}
+
+.slider .indicators .indicator-item.active {
+    background: blue;
+}
+
+
+.slides-col {
+    background:  #1e1919 !important;
+}
+
+.slides-img {
+    height: 1000px !important;
+}
+
+.slides-image-one {
+    height: 1000px !important;
+    background: url('https://fjord.dropboxstatic.com/warp/conversion/dropbox/experience/en-us/drop-in-video-series/KingChildren_1920x1280.png?id=612f13ad-7264-48ac-9856-b60829cfc557&width=1024&output_type=webp');
+
+    background-size: 1000px;
+    background-position: right 35% bottom 100%;
+    background-repeat: no-repeat;
+
+}
+.slides-image-two {
+    height: 1000px !important;
+    background: url('https://fjord.dropboxstatic.com/warp/conversion/dropbox/dmep/assets/customer-success-stories/hope-gallery/hope_quote.png?id=d39e724d-e9b4-4bf9-b448-6b92200606bf&width=1024&output_type=webp');
+
+    background-size: 1000px;
+    background-position: center 5% bottom 100%;
+    background-repeat: no-repeat;
+
+}
+
+.special-option-one {
+    height: 1000px !important;
+    background: #ffafa5;
+}
+
+.special-option-two {
+    height: 1000px !important;
+    background: #fad24d;
+}
+
+
+/* .row .col {
+    padding: 0 !important;
+} */
+
+/* .row-trusted .col-slider-img, .col-special-option-slider {
+    padding: 0 !important;
+} */
+
+.slides-content {
+    color:  #1e1919;
+    
+}
+
+.slides-link {
+    color:  #1e1919;
+    text-decoration: underline;
+    font-weight: bold ;
+}
+
+.slides-link:hover {
+    text-decoration: underline dotted;
+} 
+
+
+.refer-btn {
+    margin: 1em;
+    color: #1e1919;
+}
+
+.refer-btn:hover {
+    background: yellow !important;
+}
+
+.footer-link {
+    color:  #f7f5f2;
+}
+
+.footer-link:hover {
+    text-decoration: underline;
+}
+
+
+.footer-icons {
+    margin-right: 1.5em;
+}
+
+.footer-icons:hover {
+   font-size: 10px;
+   
+}
+
+.footer-global-link {
+    color:  #f7f5f2 !important;
+    margin: 10px 10px 10px;
+}
+
+.footer-global-link:hover {
+  text-decoration: underline;
+}
